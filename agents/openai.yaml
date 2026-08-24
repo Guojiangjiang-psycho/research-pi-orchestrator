@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research PI Orchestrator"
+  short_description: "Coordinate AI research teams with PI-level control"
+  default_prompt: "Use $research-pi-orchestrator to recover this research project, show a PI Dashboard, and route the next work."

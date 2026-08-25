@@ -14,7 +14,7 @@ An instruction-only Codex Skill for coordinating long-running research projects 
 
 Research PI Orchestrator 帮助研究者像 PI（Principal Investigator）一样管理由多个 AI Work 共同参与的长期科研项目。
 
-它解决的不是“让 AI 包办科研”，而是多 Work 协作中的三个管理问题：
+它解决的是多 Work 协作中的三个管理问题：
 
 - **少协调**：降低任务分派、交接、同步和追踪成本；
 - **能把控**：关键研究判断始终由研究者决定；
@@ -24,11 +24,9 @@ Research PI Orchestrator 帮助研究者像 PI（Principal Investigator）一样
 
 > **The goal is not to automate research. The goal is to scale the PI.**
 
-组织方式不是严格的“PI → 总控 → 子 Work”层级，而是：
-
 > **Flat intellectual collaboration, centralized project memory.**
 
-Research Orchestrator 是同步中心和共享项目记忆的维护者，而不是专业 Work 的学术领导。
+Research Orchestrator 是同步中心和共享项目记忆的维护者。
 
 ### 适合什么场景
 
